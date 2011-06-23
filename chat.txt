@@ -1,0 +1,26 @@
+WankerThu Jun 23 14:33:43 +0200 2011: hoi
+Wanker98: hallo
+Boy: Hallo
+Boy: Alles goed?
+Blah: Ja hoor
+Blah: Met jou?
+Boy: blah
+Boy: Hallo
+-- Boy enteredBoy: hallo
+-- Boy entered
+Boy: hallo
+-- Erik entered
+Erik: hey
+Erik: werkt dit?
+Boy: yep werkt
+Erik: ah nu werkt het
+Erik: terminalchat
+Erik: dikke latencyhaha
+Boy: neato
+Boy: Makkelijk als je alleen dropbox hebt, oid :P
+Erik: haha jaja
+Erik: en een mac met ruby
+-- Guest30 entered
+Guest30: hallo
+-- Boy entered
+Boy: hihi
