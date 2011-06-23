@@ -18,6 +18,12 @@ After that simply run:
 
 Enter your nickname and start typing :).
 
+# Quiting it
+
+Just press:
+
+    ctrl + c
+
 # Known issues
 
 Dropbox will probably create some conflicting copies of the 'chat.txt'. Nothing to worry about, you can delete them if you want.
