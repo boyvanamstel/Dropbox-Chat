@@ -2,6 +2,8 @@
 
 This is super super simple experiment that creates a chatbox using Dropbox. Just share the folder you cloned it in and run the chat.rb script.
 
+Read more about it in this [blog post](http://blog.boyvanamstel.nl/2011/06/dropbox-chat/).
+
 # Requirements
 
 Ruby and any gems you might not already have on your system. If it complains about a missing gem, run this
@@ -26,4 +28,4 @@ Just press:
 
 # Known issues
 
-Dropbox will probably create some conflicting copies of the 'chat.txt'. Nothing to worry about, you can delete them if you want.
+Dropbox will probably create some conflicting copies of 'chat.txt'. Nothing to worry about, you can delete them if you want.
