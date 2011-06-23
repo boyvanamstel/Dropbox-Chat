@@ -1,6 +1,6 @@
 # Overview
 
-This is super super simple experiment that creates a chatbox using Dropbox. Just share the folder you cloned it in and run the chat.rb script.
+This is a super super simple experiment that creates a chatbox using Dropbox. Just share the folder you cloned it in and run chat.rb.
 
 Read more about it in this [blog post](http://blog.boyvanamstel.nl/2011/06/dropbox-chat/).
 
